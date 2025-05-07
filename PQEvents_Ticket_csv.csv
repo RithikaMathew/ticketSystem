@@ -1,0 +1,297 @@
+id,SiteName,FeederId,EventId,Phase,First Event,Last Event,Cause,Weather,Isolation Equipment Code,Failed Equipment Code,Details
+1,Site0006,F_0000041,3042,4,39:06.0,39:06.0,Equipment,Unknown,Fuse,Other,"Equipment, Device UG, Damaged."
+2,Site0012,F_0000037,3048,3,29:36.0,29:51.0,Equipment,Unknown,Breaker,Capacitor,"Equipment, Capacitor Station, Damaged."
+3,Site0006,F_0000041,3067,2,10:46.0,10:46.0,Weather,Wind,Breaker,No Damage,"Undetermined, Wind / Weather Related."
+4,Site0012,F_0000037,3127,2,33:30.0,33:30.0,Equipment,Unknown,Fuse,Transformer,"Equipment, Transformer UG, Damaged."
+6,Site0006,F_0000041,3152,2,39:58.0,39:58.0,Equipment,Unknown,Fuse,Transformer,"Equipment, Transformer UG, Damaged."
+7,Site0006,F_0000039,3153,6,46:21.0,46:21.0,Vehicle,Unknown,Fuse,Pole,"Motor Vehicle, Pole OH, Down."
+8,Site0012,F_0000037,3162,7,24:53.0,25:33.0,Vehicle,Unknown,Breaker,Pole,"Motor Vehicle, Pole OH, Contact."
+9,Site0012,F_0000037,3163,7,24:53.0,25:33.0,Vehicle,Unknown,Breaker,Pole,"Motor Vehicle, Pole OH, Contact."
+10,Site0012,F_0000037,3164,7,24:53.0,25:33.0,Vehicle,Unknown,Breaker,Pole,"Motor Vehicle, Pole OH, Contact."
+12,Site0012,F_0000037,3166,7,24:53.0,25:33.0,Vehicle,Unknown,Breaker,Pole,"Motor Vehicle, Pole OH, Contact."
+13,Site0012,F_0000037,3168,7,24:53.0,25:33.0,Vehicle,Unknown,Breaker,Pole,"Motor Vehicle, Pole OH, Contact."
+14,Site0012,F_0000037,3186,7,25:46.0,26:05.0,Vehicle,Unknown,Sectionalizer,Pole,"Motor Vehicle, Pole OH, Damaged."
+15,Site0012,F_0000037,3187,7,25:46.0,26:05.0,Vehicle,Unknown,Sectionalizer,Pole,"Motor Vehicle, Pole OH, Damaged."
+16,Site0012,F_0000037,3188,7,25:46.0,26:05.0,Vehicle,Unknown,Sectionalizer,Pole,"Motor Vehicle, Pole OH, Damaged."
+17,Site0012,F_0000037,3189,7,25:46.0,26:05.0,Vehicle,Unknown,Sectionalizer,Pole,"Motor Vehicle, Pole OH, Damaged."
+22,Site0006,,3235,7,33:08.0,33:08.0,Unknown,Unknown,Unknown,Unknown,Unknown.
+23,Site0006,F_0000041,3296,2,32:24.0,32:24.0,Equipment,Unknown,Fuse,Cable,"Equipment, Cable UG, Damaged. (Dig in)"
+25,Site0006,F_0000041,3298,2,35:38.0,36:04.0,Equipment,Unknown,Fuse,Cable,"Equipment, Cable UG, Damaged."
+26,Site0012,,3326,7,51:18.0,51:18.0,Unknown,Lightning,Unknown,Unknown,Unknown.
+27,Site0005,,3402,6,17:46.0,17:46.0,Unknown,Unknown,Unknown,Unknown,Unknown.
+28,Site0006,F_0000041,3403,1,31:31.3,31:37.1,Equipment,Unknown,Fuse,Cable,"Equipment, Cable UG, Dig-in."
+29,Site0006,F_0000041,3404,2,31:31.3,31:37.1,Equipment,Unknown,Fuse,Cable,"Equipment, Cable UG, Dig-in."
+30,Site0006,F_0000041,3425,1,06:49.0,07:40.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+31,Site0006,F_0000041,3426,1,06:49.0,07:40.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+32,Site0006,F_0000041,3427,1,06:49.0,07:40.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+33,Site0006,F_0000041,3428,1,25:28.0,25:35.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+34,Site0006,F_0000041,3429,1,25:28.0,25:35.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+35,Site0006,F_0000041,3430,1,25:28.0,25:35.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+36,Site0006,F_0000041,3431,1,34:21.0,34:21.0,Undetermined,Unknown,Sectionalizer,No Damage,Undetermined ? Under Investigation.
+37,Site0006,F_0000039,3432,1,37:54.0,37:54.0,Undetermined,Unknown,Service Restorer,No Damage,Undetermined.
+38,Site0005,F_0000003,3433,7,19:12.0,19:12.0,Vehicle,Unknown,Fuse,Pole,"Motor Vehicle, Pole OH, Damaged."
+39,Site0006,F_0000041,3434,1,17:24.0,18:17.0,Vehicle,Unknown,Sectionalizer,Fuse Cabinet,"Motor Vehicle, Fuse UG, Damaged"
+40,Site0006,F_0000041,3435,1,17:24.0,18:17.0,Vehicle,Unknown,Sectionalizer,Fuse Cabinet,"Motor Vehicle, Fuse UG, Damaged"
+41,Site0006,F_0000041,3436,1,17:24.0,18:17.0,Vehicle,Unknown,Sectionalizer,Fuse Cabinet,"Motor Vehicle, Fuse UG, Damaged"
+42,Site0006,F_0000041,3437,1,17:24.0,18:17.0,Vehicle,Unknown,Sectionalizer,Fuse Cabinet,"Motor Vehicle, Fuse UG, Damaged"
+43,Site0011,F_0000033,3449,5,59:06.0,59:06.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+44,Site0012,F_0000009,3455,3,21:51.0,21:53.0,Equipment,Unknown,Fuse,Cable,"De-Energized For Safety-Equipment, Cable UG, Dig-In."
+45,Site0012,F_0000009,3456,3,21:51.0,21:53.0,Equipment,Unknown,Fuse,Cable,"De-Energized For Safety-Equipment, Cable UG, Dig-In."
+46,Site0006,F_0000041,3457,4,13:42.0,14:33.0,Vehicle,Unknown,Breaker,Other,"Motor Vehicle, Terminator UG, Damaged."
+47,Site0006,F_0000041,3458,4,13:42.0,14:33.0,Vehicle,Unknown,Breaker,Other,"Motor Vehicle, Terminator UG, Damaged."
+48,Site0006,F_0000041,3459,4,13:42.0,14:33.0,Vehicle,Unknown,Breaker,Other,"Motor Vehicle, Terminator UG, Damaged."
+49,Site0006,F_0000041,3460,4,13:42.0,14:33.0,Vehicle,Unknown,Breaker,Other,"Motor Vehicle, Terminator UG, Damaged."
+50,Site0006,,3472,3,18:06.0,18:06.0,Unknown,Unknown,Unknown,Unknown,Unknonw.
+51,Site0006,,3473,3,18:06.0,18:06.0,Unknown,Unknown,Unknown,Unknown,Unknonw.
+52,Site0006,F_0000041,3498,3,32:36.0,32:36.0,Undetermined,Wind,Fuse,No Damage,"Undeterminde, Possible High Winds."
+53,Site0006,F_0000038,3552,3,28:39.0,28:51.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+54,Site0006,F_0000038,3553,3,28:39.0,28:51.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+55,Site0006,F_0000038,3554,3,28:39.0,28:51.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+56,Site0006,F_0000038,3555,3,28:39.0,28:51.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+57,Site0006,F_0000038,3556,3,28:39.0,28:51.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+58,Site0006,F_0000038,3557,3,28:39.0,28:51.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+59,Site0005,F_0000004,3577,2,21:22.0,21:22.0,Tree,Unknown,Fuse,Transformer,"Tree/Vegetation, XFMR OH, Damaged."
+61,Site0006,F_0000041,3730,1,36:47.0,36:47.0,Equipment,Unknown,Fuse,Other,"Equipment, Device UG, Damaged."
+63,Site0006,F_0000041,3738,1,47:38.0,47:38.0,Equipment,Unknown,Fuse,Cable,"Equipment, Cable UG, Damaged."
+64,Site0012,F_0000037,3740,3,31:30.0,31:30.0,Tree,Wind,Breaker,No Damage,"Tree-Weather-Storm, Device OH, Contact."
+65,Site0012,F_0000037,3742,3,53:56.0,53:56.0,Tree,Wind,Breaker,No Damage,"Tree-Weather-Storm, Device OH, Contact."
+66,Site0012,F_0000037,3744,3,00:30.0,00:58.0,Tree,Wind,Breaker,No Damage,"Tree-Weather-Storm, Device OH, Contact."
+67,Site0012,F_0000037,3745,3,00:30.0,00:58.0,Tree,Wind,Breaker,No Damage,"Tree-Weather-Storm, Device OH, Contact."
+68,Site0012,F_0000037,3746,3,00:30.0,00:58.0,Tree,Wind,Breaker,No Damage,"Tree-Weather-Storm, Device OH, Contact."
+69,Site0012,F_0000009,3761,3,17:13.0,17:43.0,Equipment,Unknown,Breaker,TEE,"Equipment, Other Connector UG, Damaged."
+70,Site0012,F_0000009,3762,3,17:13.0,17:43.0,Equipment,Unknown,Breaker,TEE,"Equipment, Other Connector UG, Damaged."
+73,Site0012,F_0000009,3765,3,17:13.0,17:43.0,Equipment,Unknown,Breaker,TEE,"Equipment, Other Connector UG, Damaged."
+74,Site0012,F_0000009,3766,3,17:13.0,17:43.0,Equipment,Unknown,Breaker,TEE,"Equipment, Other Connector UG, Damaged."
+75,Site0012,F_0000009,3767,3,17:13.0,17:43.0,Equipment,Unknown,Breaker,TEE,"Equipment, Other Connector UG, Damaged."
+77,Site0006,F_0000041,3775,4,27:01.0,27:08.0,Equipment,Unknown,Sectionalizer,Transformer,"Equipment, XFMR UG, Damaged."
+78,Site0006,F_0000041,3776,4,27:01.0,27:08.0,Equipment,Unknown,Sectionalizer,Transformer,"Equipment, XFMR UG, Damaged."
+79,Site0006,F_0000041,3778,4,57:41.0,57:41.0,Equipment,Unknown,Sectionalizer,Transformer,"Equipment, XFMR UG, Damaged."
+80,Site0012,F_0000009,3816,6,06:42.0,06:42.0,Equipment,Unknown,Fuse,Pole,"Equipment, Pole OH, Down."
+81,Site0005,,3843,7,37:52.0,37:52.0,Weather,Lightning,Breaker,No Damage,"Weather Related, Storm, Lightning."
+82,Site0012,F_0000037,3845,7,11:05.0,11:05.0,Weather,Lightning,Service Restorer,No Damage,"Weather Related, Storm, Lightning."
+83,Site0006,F_0000039,3893,4,46:03.0,46:22.0,Tree,Wind,Fuse,No Damage,"Tree/Vegetation, Wire OH, Involved."
+84,Site0006,F_0000039,3894,4,46:03.0,46:22.0,Tree,Wind,Fuse,No Damage,"Tree/Vegetation, Wire OH, Involved."
+85,Site0006,F_0000039,3895,4,46:03.0,46:22.0,Tree,Wind,Fuse,No Damage,"Tree/Vegetation, Wire OH, Involved."
+86,Site0005,F_0000043,3929,1,02:48.0,02:55.0,Equipment,Unknown,Sectionalizer,Cable,"Equipment, Cable UG, Damaged."
+88,Site0005,F_0000043,3931,1,59:40.0,59:40.0,Equipment,Unknown,Sectionalizer,Cable,"Equipment, Cable UG, Damaged."
+89,Site0006,F_0000043,3933,5,47:51.0,47:51.0,Equipment,Unknown,Sectionalizer,Cable,"Equipment, Cable UG, Damaged."
+90,Site0006,F_0000043,3934,5,47:51.0,47:51.0,Equipment,Unknown,Sectionalizer,Cable,"Equipment, Cable UG, Damaged."
+91,Site0005,,4004,3,11:07.0,11:07.0,Unknown,Unknown,Unknown,Unknown,Unknown.
+92,Site0011,F_0000007,4015,2,06:46.0,07:30.0,Equipment,Unknown,Breaker,Cable,"Equipment, Cable UG, Damaged."
+93,Site0011,F_0000007,4016,2,06:46.0,07:30.0,Equipment,Unknown,Breaker,Cable,"Equipment, Cable UG, Damaged."
+94,Site0011,F_0000007,4017,2,06:46.0,07:30.0,Equipment,Unknown,Breaker,Cable,"Equipment, Cable UG, Damaged."
+95,Site0006,F_0000038,4083,7,29:45.0,29:45.0,Undetermined,Heat,Sectionalizer,No Damage,Undetermined.
+96,Site0005,F_0000038,4084,7,29:45.0,29:45.0,Undetermined,Heat,Sectionalizer,No Damage,Undetermined.
+97,Site0012,F_0000036,4114,2,01:58.0,01:58.0,Other,Unknown,Breaker,Cable,"De-Energized For Safety, Other Connector UG, Contact - Damage."
+98,Site0006,,4253,7,57:42.0,57:42.0,Unknown,Unknown,Unknown,Unknown,"Equipment, Cable UG, Damaged."
+99,Site0005,F_0000040,4348,7,09:18.0,09:18.0,Undetermined,Unknown,Breaker,No Damage,Undetermined.
+100,Site0005,F_0000043,4373,4,26:19.0,26:19.0,Equipment,Unknown,Fuse,Other,"Equipment, Device UG, Damaged."
+101,Site0006,F_0000039,4513,2,23:04.0,23:04.0,Undetermined,Unknown,Service Restorer,No Damage,Undetermined.
+102,Site0011,F_0000008,4552,1,15:27.0,15:49.0,Equipment,Unknown,Breaker,Connector,"Equipment, Other Connector UG, Damaged."
+103,Site0011,F_0000008,4553,1,15:27.0,15:49.0,Equipment,Unknown,Breaker,Connector,"Equipment, Other Connector UG, Damaged."
+104,Site0011,F_0000008,4554,1,15:27.0,15:49.0,Equipment,Unknown,Breaker,Connector,"Equipment, Other Connector UG, Damaged."
+105,Site0011,F_0000008,4556,1,58:27.0,58:27.0,Equipment,Unknown,Breaker,Connector,"Equipment, Other Connector UG, Damaged."
+106,Site0010,,2760,1,41:21.0,41:21.0,Unknown,Unknown,Unknown,Unknown,Short duration variation. No outage information found.
+107,Site0010,F_0000032,2761,4,02:34.0,02:34.0,Equipment,,Breaker,,A conductor off the pin on the mainline of F_0000032 out of Site0010 Sub caused the circuit breaker to trip.
+108,Site0010,F_0000029,2762,2,10:14.0,10:14.0,Equipment,,Breaker,,A cable fault on the underground portion of F_0000029 out of Site0010 Sub. caused the circuit breaker to trip.
+109,Site0010,F_0000022,2765,2,21:43.0,21:43.0,Equipment,,Breaker,,A cable fault on the underground portion of F_0000022 out of Site0010 Substation tripped the circuit breaker.
+110,Site0014,F_0000012,2771,1,05:06.0,05:06.0,Equipment,,Breaker,,A splice failure on the aerial cable portion of F_0000012 from Site0014 Sub. caused the circuit breaker to trip.
+111,Site0010,F_0000030,2776,4,01:38.0,01:38.0,Equipment,,Breaker,,A cable fault on the UG lead cable portion of F_0000030 from Site0010 failed.
+112,Site0010,F_0000024,2778,6,12:33.0,12:33.0,Equipment,,Breaker,,A fault on the riser splice of F_0000024 out of Site0010 tripped the breaker at the substation.
+113,Site0014,F_0000018,2784,4,25:31.0,25:31.0,Equipment,,Breaker,,A terminator failure on the cable dip for the Rt. 8 over pass caused the circuit breaker of F_0000018 to trip
+114,Site0014,,2786,4,55:35.0,55:35.0,Lightning,Major Storm,Unknown,,Lightning on the transmission system outside of Utility territory caused a SARFI70 sag at Site0010.
+115,Site0010,,2787,4,55:35.0,55:35.0,Lightning,Major Storm,Unknown,,Lightning on the transmission system outside of Uutility territory caused a SARFI70 sag at Site0010.
+116,Site0014,,2788,1,08:27.0,08:27.0,Lightning,,Breaker,,Lightning on the Line
+117,Site0010,,2789,1,08:27.0,08:27.0,Lightning,,Breaker,,Lightning on the Line
+118,Site0010,,2791,2,52:33.0,52:33.0,Lightning,Major Storm,Breaker,,Lightning during a major storm caused the  Site0010  Line breaker to trip and reclose at the substation. There were no outages associated with this event.
+119,Site0014,,2792,2,52:33.0,52:33.0,Lightning,Major Storm,Breaker,,Lightning during a major storm caused the  Site0010  Line breaker to trip and reclose at the substation. There were no outages associated with this event.
+120,Site0010,F_0000022,2795,3,17:41.0,17:41.0,Equipment,,Breaker,,A lightning arrester failure caused primary wire to fall to the ground and trip the circuit breaker.
+121,Site0010,,2797,4,47:25.0,47:25.0,Unknown,,Unknown,,Unknown Cause. No outage report was found for this event.
+122,Site0014,,2802,7,20:27.0,20:27.0,Unknown,Major Storm,Breaker,,A fault on Transmission Line during a thunderstorm caused a SARFI 70 sag at Site0010 and Site0014 Substation.
+123,Site0010,,2803,7,20:27.0,20:27.0,Unknown,Major Storm,Breaker,,A fault on Transmission Line during a thunderstorm caused a SARFI 70 sag at Site0010 and Site0014 Substation.
+124,Site0014,,2811,7,35:31.0,35:31.0,Unknown,,Breaker,,A fault caused breakers to trip and caused SARFI 70 events at Substations.
+125,Site0010,,2812,7,35:31.0,35:31.0,Unknown,,Breaker,,A fault caused breakers to trip and caused SARFI 70 events at Substations.
+126,Site0014,,2813,7,57:29.0,57:29.0,Unknown,,Breaker,,"Unknown cause. No outage reported for this event. Short duration, possible recloser operation. Cause incoming to open at the substation due to fault current over 10,000 Amps."
+127,Site0010,,2825,7,15:44.0,15:44.0,Lightning,,Breaker,,Lightning outside of Utility territory on transmission line caused voltage sags across our territory.
+128,Site0014,,2826,7,15:44.0,15:44.0,Lightning,,Breaker,,Lightning outside of Utility territory on transmission line caused voltage sags across our territory.
+129,Site0010,F_0000024,2827,2,34:19.0,34:19.0,Equipment,,Breaker,,A cable fault on the UG lead cable portion of  F_0000024 caused the circuit breaker to trip at Site0010 Substation.
+130,Site0010,F_0000023,2828,2,19:10.0,19:10.0,Equipment,,Switch,Cable,Cable fault at Loc. 271 tripped a fault interrupter at Loc.260. F_0000023 out of Site0010 Substation.
+131,Site0010,,2830,4,00:18.0,00:18.0,Tree,Major Storm,Breaker,,Possible tree contact on Transmission Line during a Major windstorm.
+132,Site0014,,2831,4,00:18.0,00:18.0,Tree,Major Storm,Breaker,,Possible tree contact on Transmission Line during a Major windstorm.
+133,Site0010,F_0000023,2842,1,58:24.0,58:24.0,Other,,Recloser,,Mylar ballons got across the primary and tripped a recloser on  F_0000023 out of Site0010 Substation.
+134,Site0014,,2846,7,14:34.0,28:03.0,Equipment,,Breaker,Load tap changer,Bulk Transformer B Load Tap Changer failed at Site0014 Substation causing a bus outage and complete station outage for five minutes and 10 seconds.
+135,Site0010,,2849,5,01:48.0,01:50.0,Other,,Breaker,,"Smoke from a small brush fire caused a line to line fault, tripping breakers at Substations."
+136,Site0014,,2850,5,01:48.0,01:50.0,Other,,Breaker,,"Smoke from a small brush fire caused a line to line fault, tripping breakers at Substations."
+137,Site0010,,2857,7,44:57.0,44:57.0,Lightning,Lightning,Breaker,,Simulteneaus lightning on lines during a lightning storm. Both Substations experienced a temporary interruption of 5 seconds.
+138,Site0014,,2856,7,44:57.0,44:57.0,Lightning,Lightning,Breaker,,Simulteneaus lightning on lines during a lightning storm. Both Substations experienced a temporary interruption of 5 seconds.
+139,Site0014,F_0000010,2861,4,36:14.0,36:14.0,Unknown,,Recloser,,Recloser tripped on  F_0000010 no apparent cause.
+140,Site0010,,2867,2,17:20.0,17:24.0,Tree,,Breaker,,A tree contact on Transmission Line caused all the line terminals to trip and reclose.
+141,Site0014,,2868,2,17:20.0,17:24.0,Tree,,Breaker,,A tree contact on Transmission Line caused all the line terminals to trip and reclose.
+142,Site0010,,2878,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+143,Site0014,,2879,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+144,Site0010,,2880,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+145,Site0014,,2881,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+146,Site0010,,2882,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+147,Site0014,,2883,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+148,Site0010,,2884,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+149,Site0010,,2885,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+150,Site0014,,2886,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+151,Site0014,,2887,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+152,Site0010,,2888,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+153,Site0014,,2889,2,07:37.0,12:11.0,Tree,Lightning,Breaker,,Transmission Line tripped during a major storm. The cause of this event was likely tree contact. Breakers at Substations tripped and reclosed multiple times.
+154,Site0014,,2891,4,43:14.0,43:17.0,Lightning,Lightning,Breaker,,Lightning stroke causing several breakers to trip.
+155,Site0010,,2890,4,43:14.0,43:17.0,Lightning,Lightning,Breaker,,Lightning stroke causing several breakers to trip.
+156,Site0010,,2892,3,49:29.0,49:32.0,Lightning,Lightning,Breaker,,Two Lines tripped simultaneously causing a temporary outage at  Bus #1.
+157,Site0014,,2893,3,49:29.0,49:32.0,Lightning,Lightning,Breaker,,Two Lines tripped simultaneously causing a temporary outage at  Bus #1.
+158,Site0010,F_0000022,2899,7,54:57.0,54:57.0,Lightning,Lightning,Breaker,,A lightning strike during a major storm caused primary down and tripped the circuit breaker.
+159,Site0014,F_0000016,2904,6,41:06.0,41:06.0,Lightning,Lightning,Breaker,,Lightning during a major storm caused primary wire to fall to the ground and trip the circuit breaker.
+160,Site0010,F_0000026,2905,2,07:04.0,08:53.0,Lightning,Major Storm,Recloser,,A lightning strike caused a recloser on  F_0000026 to operate twice and caused primary wire to fall to the ground.
+161,Site0010,F_0000026,2906,2,07:04.0,08:53.0,Lightning,Major Storm,Recloser,,A lightning strike caused a recloser on  F_0000026 to operate twice and caused primary wire to fall to the ground.
+162,Site0010,F_0000026,2907,2,07:04.0,08:53.0,Lightning,Major Storm,Recloser,,A lightning strike caused a recloser on  F_0000026 to operate twice and caused primary wire to fall to the ground.
+163,Site0010,F_0000026,2908,4,07:04.0,08:53.0,Lightning,Major Storm,Recloser,,A lightning strike caused a recloser on  F_0000026 to operate twice and caused primary wire to fall to the ground.
+164,Site0010,F_0000024,2909,3,10:37.0,10:37.0,Lightning,Major Storm,Recloser,,A lightning strike caused primary to fall to the ground and trip the circuit breaker of  F_0000024.
+165,Site0014,,2911,2,31:19.0,31:19.0,Unknown,,Recloser,,No outage information found for this event. May have been a temporary fault cleared by a successful recloser operation per the sag duration.
+166,Site0014,,2912,2,25:00.0,25:00.0,Unknown,,Recloser,,No outage information found for this event. May have been a temporary fault cleared by a successful recloser operation per the sag duration.
+167,Site0010,,2914,5,52:37.0,52:38.0,Unknown,,Breaker,,A fault on Line caused the breaker to trip and reclose. The cause of this event is unknown and it's under investigation.
+168,Site0014,,2915,5,52:37.0,52:38.0,Unknown,,Breaker,,A fault on Line caused the breaker to trip and reclose. The cause of this event is unknown and it's under investigation.
+169,Site0010,F_0000025,2918,1,40:31.0,40:31.0,Equipment,,Breaker,,A fault on a Vac Pac Switch in Substation2 caused the circuit breaker of  F_0000025 to trip.
+170,Site0010,F_0000023,2919,1,01:38.0,01:38.0,Equipment,,Switch,,A cable fault in the Substation tripped a Vac Pac Switch. This event is related to the earlier fault that occurred at Substation2
+171,Site0010,F_0000023,2920,1,25:53.0,25:53.0,Equipment,,Switch,,A cable fault on primary cable feeding Substation2 from F_0000023 tripped a Vac Pac Switch. This event is related to the other two events from Site0010 this same day.
+172,Site0014,F_0000018,2932,4,12:09.0,12:09.0,Equipment,,Breaker,,A splice failure on  F_0000018 out of Site0014 caused the circuit breaker to trip.
+173,Site0014,F_0000012,2940,2,33:29.0,33:45.0,Equipment,,Recloser,,A conductor off the pin on F_0000012 out of Site0014 Sub. caused a recloser to trip.
+174,Site0014,F_0000012,2941,2,33:29.0,33:45.0,Equipment,,Recloser,Conductor,A conductor off the pin on F_0000012 out of Site0014 Sub. caused a recloser to trip.
+175,Site0014,F_0000012,2942,3,33:29.0,33:45.0,Equipment,,Recloser,,A conductor off the pin on F_0000012 out of Site0014 Sub. caused a recloser to trip.
+176,Site0014,,2948,4,56:08.0,56:08.0,Unknown,,Recloser,,Unknown cause. Possible successful recloser operation based on the event duration (4.5 cycles).
+177,Site0010,,2949,5,00:43.0,00:46.0,Unknown,,Breaker,,While attempting to close back in transmission line a fault occurred trippint the a breaker at Substation. This event is under investigation.
+178,Site0014,,2950,5,00:43.0,00:46.0,Unknown,,Breaker,,While attempting to close back in transmission line a fault occurred trippint the a breaker at Substation. This event is under investigation.
+179,Site0010,,2955,3,42:48.0,42:48.0,Unknown,Wind,Breaker,,A phase to phase fault on the Transmission Line caused breakers at substations to trip and reclose. The cause of this event is unknown.
+180,Site0014,,2956,3,42:48.0,42:48.0,Unknown,Wind,Breaker,,A phase to phase fault on the Transmission Line caused breakers at substations to trip and reclose. The cause of this event is unknown.
+181,Site0010,,2994,1,54:58.0,57:32.0,Unknown,,Breaker,,A fault on Transmission Line caused breakers at Substations to trip. This event also led to relay overtrips on the other Lines.
+182,Site0014,,2993,1,54:58.0,57:32.0,Unknown,,Breaker,,A fault on Transmission Line caused breakers at Substations to trip. This event also led to relay overtrips on the other Lines.
+183,Site0014,,2995,2,08:54.0,08:54.0,Customer Caused,,Switch,,A fault at a customer switchgear caused a severe voltage sag at the substation bus at Site0014. The fault was cleared by the customer's switchgear.
+184,Site0014,F_0000012,2997,3,15:33.0,15:33.0,Equipment,,Breaker,,Bad potheads at a riser from F_0000012 out of Site0014 Substation caused the circuit breaker to trip.
+185,Site0014,,2998,3,30:50.0,30:50.0,Unknown,,Unknown,,No outage information found for this event.
+186,Site0014,F_0000017,2999,7,03:45.0,03:45.0,Tree,,Breaker,,A tree contact on the mainline of F_0000017 from Site0014 Substation tripped the circuit breaker.
+187,Site0009,F_0000065,1,2,10:34.5,10:39.9,Tree,Clear Weather,Recloser,LINE CUT,Fault caused line recloser lockout. Tree Outside Right of Way (Fall/Lean On Primary)
+188,Site0009,F_0000065,4,2,10:34.5,10:39.9,Tree,Clear Weather,Recloser,LINE CUT,Fault caused line recloser lockout. Tree Outside Right of Way (Fall/Lean On Primary)
+189,Site0009,F_0000065,5,2,10:34.5,10:39.9,Tree,Clear Weather,Recloser,LINE CUT,Fault caused line recloser lockout. Tree Outside Right of Way (Fall/Lean On Primary)
+190,Site0009,F_0000065,7,2,10:34.5,10:39.9,Tree,Clear Weather,Recloser,LINE CUT,Fault caused line recloser lockout. Tree Outside Right of Way (Fall/Lean On Primary)
+191,Site0009,F_0000061,21,1,20:10.6,20:10.6,Equipment,Clear Weather,CO15,FUSE,Overhead Insulator Failure. BROKEN INSULATOR
+192,Site0009,F_0000061,22,1,20:10.6,20:10.6,Equipment,Clear Weather,Fuse CO15,FUSE,Overhead Insulator Failure. BROKEN INSULATOR
+193,Site0009,F_0000065,62,4,39:59.4,40:01.2,Undetermined,Raining,CO15LB,FUSE,storm
+194,Site0009,F_0000065,64,4,39:59.4,40:01.2,Undetermined,Raining,CO15LB,FUSE,storm
+195,Site0009,F_0000065,65,4,22:52.5,22:52.8,Tree,Thunderstorm,CO15LB,FUSE,Tree/Limb Growth
+196,Site0009,F_0000065,67,4,22:52.5,22:52.8,Tree,Thunderstorm,CO15LB,FUSE,Tree/Limb Growth
+197,Site0009,F_0000065,68,2,07:18.6,07:18.6,Tree,Clear Weather,,CUSTOMER,VINES ON TRANSFORMER
+198,Site0009,F_0000062,207,4,49:05.0,49:05.0,Undetermined,Snow/Ice,CO15LB,FUSE,snow on limbs into lines
+199,Site0009,F_0000065,243,4,06:09.7,06:16.9,Tree,Major Storm,CO15,FUSE,Tree Outside Right of Way (Fall/Lean On Primary). Tree fell on phase A.
+200,Site0009,F_0000065,245,4,06:09.7,06:16.9,Tree,Major Storm,CO15,FUSE,Tree Outside Right of Way (Fall/Lean On Primary). Tree fell on phase A.
+201,Site0009,F_0000065,247,4,06:09.7,06:16.9,Tree,Major Storm,CO15,FUSE,Tree Outside Right of Way (Fall/Lean On Primary). Tree fell on phase A.
+202,Site0009,F_0000065,249,4,06:09.7,06:16.9,Tree,Major Storm,CO15,FUSE,Tree Outside Right of Way (Fall/Lean On Primary). Tree fell on phase A.
+203,Site0009,F_0000065,251,1,28:22.7,28:22.7,Tree,Major Storm,,CUSTOMER,Tree Outside Right of Way (Fall/Lean On Primary). Tore primary line down.
+204,Site0009,F_0000063,253,1,49:09.8,49:09.8,Tree,Major Storm,CO15LB,FUSE,Limb Fell from Outside Right of Way
+205,Site0009,F_0000061,281,5,03:51.0,04:07.9,Vehicle,Snow/Ice,SECT200NLB,SECTIONALIZER,CAR HIT POLE
+206,Site0009,F_0000061,283,5,03:51.0,04:07.9,Vehicle,Snow/Ice,SECT200NLB,SECTIONALIZER,CAR HIT POLE
+207,Site0009,F_0000061,284,5,03:51.0,04:07.9,Vehicle,Snow/Ice,SECT200NLB,SECTIONALIZER,CAR HIT POLE
+208,Site0009,F_0000061,287,5,03:51.0,04:07.9,Vehicle,Snow/Ice,SECT200NLB,SECTIONALIZER,CAR HIT POLE
+209,Site0009,F_0000061,289,7,58:49.6,58:49.6,Planned,Snow/Ice,OCB,BREAKER/SWITCH,Repair/Replace Damaged or Failed Facilities
+210,Site0009,F_0000063,306,1,21:16.8,21:18.5,Planned,Clear Weather,CO15,FUSE,Repair/Replace Damaged or Failed Facilities
+211,Site0009,F_0000065,366,2,53:48.0,53:48.0,Equipment,Thunderstorm,,CUSTOMER,lightning. Cutout/Fuse Link Failure
+212,Site0009,F_0000065,550,2,36:17.1,36:17.1,Equipment,Clear Weather,CO15LB,FUSE,"Fuse was blown, did not see any problems. Loggers at end of road say they did not hit line."
+213,Site0009,F_0000063,713,1,51:03.0,51:03.0,Equipment,Thunderstorm,CO15,FUSE,Cutout/Fuse Link Failure. lighting in area
+214,Site0009,F_0000064,715,1,59:47.3,59:47.3,Undetermined,Thunderstorm,CO15LB,FUSE,
+215,Site0009,F_0000064,716,1,36:09.5,36:09.5,Tree,Thunderstorm,,CUSTOMER,Fuse on transformer was blown due to tree limb on trans riser. Tree/Limb Growth
+216,Site0009,F_0000064,716,1,36:09.5,36:09.5,Tree,Thunderstorm,,CUSTOMER,Fuse on transformer was blown due to tree limb on trans riser. Tree/Limb Growth
+217,Site0009,F_0000062,719,4,09:04.0,09:04.4,Animal,Clear Weather,CO15LB,FUSE,
+218,Site0009,F_0000062,722,4,09:04.0,09:04.4,Animal,Clear Weather,CO15LB,FUSE,
+219,Site0009,F_0000063,723,1,19:19.1,19:19.1,Tree,Clear Weather,CO15,FUSE,Tree Inside Right of Way (Fall/Lean On Primary)
+220,Site0009,F_0000063,775,2,33:49.3,33:49.3,Undetermined,Clear Weather,CO15,FUSE,possible riser to close to pole
+221,Site0009,F_0000063,779,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+222,Site0009,F_0000063,781,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+223,Site0009,F_0000063,782,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+224,Site0009,F_0000063,785,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+225,Site0009,F_0000063,788,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+226,Site0009,F_0000063,790,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+227,Site0009,F_0000063,793,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+228,Site0009,F_0000063,796,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+229,Site0009,F_0000063,799,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+230,Site0009,F_0000063,801,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+231,Site0009,F_0000063,803,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+232,Site0009,F_0000063,804,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+234,Site0009,F_0000063,807,4,04:11.5,02:52.1,Equipment,Clear Weather,R100-4E,RECLOSER,Overhead Arrester Failure. UNKNOWN CAUSE AT TIME
+235,Site0009,F_0000063,809,4,02:54.9,03:25.8,Equipment,Clear Weather,,SERVICE TRANSFORMER,Overhead Transformer Outage
+236,Site0009,F_0000063,811,4,02:55.0,03:25.8,Equipment,Clear Weather,,SERVICE TRANSFORMER,Overhead Transformer Outage
+237,Site0009,F_0000063,852,2,41:55.5,41:55.9,Lightning,Thunderstorm,CO15,FUSE,"Lightning struck transf, burned primary down.Overhead Primary Failure (No Tree Involved)"
+238,Site0009,F_0000063,855,2,41:55.5,41:55.9,Lightning,Thunderstorm,CO15,FUSE,"Lightning struck transf, burned primary down.Overhead Primary Failure (No Tree Involved)"
+239,Site0009,F_0000061,857,1,29:42.6,29:43.0,Equipment,Windy,CO15,FUSE,Cutout/Fuse Link Failure. possible lightning
+240,Site0009,F_0000061,859,1,29:30.3,29:30.3,Equipment,Clear Weather,CO15,FUSE,Overhead Transformer Outage. Bblown tap line fuse bad transformer.
+241,Site0009,F_0000065,868,2,06:21.8,06:21.8,Tree,Clear Weather,R100E,RECLOSER,Tree/Limb Growth
+242,Site0009,F_0000065,935,2,31:11.9,31:40.0,Customer Request,Clear Weather,,CUSTOMER,CALL BACK - Lights on.
+243,Site0009,F_0000065,940,2,31:11.9,31:40.0,Customer Request,Clear Weather,,CUSTOMER,CALL BACK - Lights on.
+244,Site0009,F_0000065,942,2,31:11.9,31:40.0,Customer Request,Clear Weather,,CUSTOMER,CALL BACK - Lights on.
+245,Site0009,F_0000065,947,2,31:11.9,31:40.0,Customer Request,Clear Weather,,CUSTOMER,CALL BACK - Lights on.
+246,Site0009,F_0000065,952,4,01:44.4,01:44.4,Equipment,Clear Weather,CO15LB,FUSE,Underground Transformer Outage. Need to replace trans.
+247,Site0009,F_0000065,957,3,58:58.7,05:04.5,Animal,Clear Weather,R-OVR-1PT,RECLOSER,SNAKE
+248,Site0009,F_0000065,959,3,58:58.7,05:04.5,Animal,Clear Weather,R-OVR-1PT,RECLOSER,SNAKE
+249,Site0009,F_0000065,960,3,58:58.7,05:04.5,Animal,Clear Weather,R-OVR-1PT,RECLOSER,SNAKE
+250,Site0009,F_0000065,962,3,58:58.7,05:04.5,Animal,Clear Weather,R-OVR-1PT,RECLOSER,SNAKE
+251,Site0009,F_0000065,963,3,58:58.7,05:04.5,Animal,Clear Weather,R-OVR-1PT,RECLOSER,SNAKE
+252,Site0009,F_0000065,965,3,58:58.7,05:04.5,Animal,Clear Weather,R-OVR-1PT,RECLOSER,SNAKE
+253,Site0009,F_0000064,1057,1,23:23.6,23:23.6,Equipment,Clear Weather,,SERVICE TRANSFORMER,Overhead Transformer Outage. CAUSE NOT KNOWN
+254,Site0009,F_0000065,1088,1,09:11.5,09:11.5,Vehicle,Clear Weather,,CUSTOMER,car hit guy wire
+255,Site0009,F_0000062,1089,2,20:06.1,20:06.6,Animal,Clear Weather,CO15LB,FUSE,squirrl
+256,Site0009,F_0000061,1106,1,37:29.7,37:29.7,Equipment,Clear Weather,CO15LB,FUSE,Cutout/Fuse Link Failure
+257,Site0009,F_0000061,1108,1,16:35.0,16:35.3,Animal,Clear Weather,,SERVICE TRANSFORMER,SNAKE ON LIGHTNING ARRESTER
+258,Site0009,F_0000061,1111,1,16:35.0,16:35.3,Animal,Clear Weather,,SERVICE TRANSFORMER,SNAKE ON LIGHTNING ARRESTER
+259,Site0009,F_0000061,1196,4,39:42.1,39:42.1,Customer Request,Clear Weather,,CUSTOMER,custmer called back light on. Customer Breaker / Equipment Failure
+260,Site0002,F_0000044,21832,1,14:23.0,14:23.0,Lightning,,,,lightning caused this fuse to blow
+261,Site0002,F_0000044,21831,1,14:23.0,14:23.0,,,,,transformer died under t3309
+262,Site0002,F_0000044,21840,2,40:36.0,40:36.0,Animal,,,,live bird caused trans fuse to blo
+263,Site0002,F_0000044,21842,1,55:07.0,55:07.0,Tree,,,,tree broke primary under n3177
+264,Site0002,F_0000044,21843,2,04:20.0,04:20.0,,,,,replace ug elbow under n3395
+265,Site0002,F_0000044,21844,7,13:23.0,13:23.0,Tree,,,,tree brought service down causing
+266,Site0002,F_0000044,21846,6,43:37.0,43:37.0,Tree,,,,wind and trees cause this fuse to b
+267,Site0002,F_0000044,21852,4,14:05.0,14:05.0,,,,,bad switch barrel t6293
+268,Site0002,F_0000044,21853,2,30:39.0,30:39.0,,,,,unknown grimmlin caused this 10 am
+269,Site0002,F_0000044,21854,7,44:30.0,44:30.0,Tree,,,,bad weather blew down a tree that
+270,Site0002,F_0000044,21855,1,21:57.0,21:57.0,,,,,this overload transormer blew under
+271,Site0002,F_0000044,21856,1,03:53.0,03:53.0,Tree,,,,wind and trees caused n3157 to blo
+272,Site0002,F_0000044,21857,1,07:38.0,07:38.0,,,,,closed transformer cutout
+273,Site0002,F_0000044,21858,7,04:05.0,04:05.0,,,,,cap bank on
+274,Site0002,F_0000044,21859,4,18:07.0,18:07.0,,,,,cap banl off
+275,Site0002,F_0000044,21872,1,03:37.0,03:37.0,,,,,n3157 bad arrester
+276,Site0002,F_0000044,21873,4,49:01.0,49:01.0,Animal,,,,anoher squirrel attack under t6293
+277,Site0002,F_0000044,21874,1,04:52.0,04:52.0,,,,,arching
+278,Site0002,F_0000044,21875,4,27:47.0,27:47.0,,,,,more arching
+279,Site0002,F_0000044,21876,7,18:07.0,18:07.0,,,,,more arching
+280,Site0002,F_0000044,21878,1,18:56.0,18:56.0,,,,,last of the arching
+281,Site0002,F_0000044,21881,1,31:55.0,31:55.0,,,,,
+282,Site0002,F_0000045,21841,7,54:39.0,54:39.0,,,,,unknown as to what caused this
+283,Site0002,F_0000046,21833,4,57:19.0,57:19.0,Tree,,,,vines caused this outage under t82
+284,Site0002,F_0000046,21836,7,57:47.0,57:47.0,,,,,service shortng under t2489
+285,Site0002,F_0000046,21837,4,23:19.0,23:19.0,,,,,same service still shorting
+286,Site0002,F_0000046,21838,7,33:10.0,33:10.0,,,,,service finally smoked
+287,Site0002,F_0000046,21839,6,03:01.0,03:01.0,,,,,overloaded transformer in a three
+288,Site0002,F_0000046,21845,3,38:53.0,38:53.0,Animal,,,,another animal attach under t3537
+289,Site0002,F_0000046,21847,7,29:18.0,29:18.0,,,,,arcing jumper under t7577
+290,Site0002,F_0000046,21848,7,32:16.0,32:16.0,,,,,arching jumper
+291,Site0002,F_0000046,21849,7,34:01.0,34:01.0,,,,,arching jumper
+292,Site0002,F_0000046,21850,7,35:45.0,35:45.0,,,,,same jumper still arching
+293,Site0002,F_0000046,21851,7,20:13.0,20:13.0,,,,,last of srching jumper
+294,Site0002,F_0000046,21860,6,06:05.0,06:05.0,,,,,t6501 A13808 customers lowside fau
+295,Site0002,F_0000046,21871,4,41:13.0,41:13.0,,,,,T8289 refused trans 10A rabbit att
+296,Site0002,F_0000047,21861,6,17:34.0,17:34.0,Vehicle,,,,truck hit pole breaker 1225 33rd s
+297,Site0002,F_0000047,21862,6,18:15.0,18:15.0,Vehicle,,,,truck hit pole 1225 33rd st shot3c
+298,Site0002,F_0000047,21863,7,51:32.0,51:32.0,Vehicle,,,,breaker reclose from truck hiting
+299,Site0002,F_0000047,21865,1,59:03.0,59:03.0,,,,,close phase A after pole repair.
+300,Site0002,F_0000047,21864,1,59:03.0,59:03.0,Vehicle,,,,truck hit pole sub breaker 1225 33.
+301,Site0002,F_0000047,21866,2,59:13.0,59:13.0,,,,,close another phase.
+302,Site0002,F_0000047,21867,4,00:19.0,00:19.0,,,,,close last phase after truck hit p.
+303,Site0002,F_0000047,21869,7,17:28.0,17:28.0,Animal,,,,t3521 100amp woodpecker attack.
+304,Site0002,F_0000047,21870,5,56:27.0,56:27.0,,,,,small motor start.
+305,Site0002,F_0000047,21879,1,06:38.0,06:38.0,,,,,t8937 100amp lightening strike.
+306,Site0002,F_0000047,21880,1,11:34.0,11:34.0,,,,,pick up load after lightning strik
+307,Site0003,F_0000049,21834,6,47:10.0,47:10.0,,,,,bad wind storm primary on ground u
+308,Site0003,F_0000049,21835,2,11:36.0,11:36.0,,,,,bad transformer under t5063
+309,Site0003,F_0000050,21868,1,59:08.0,59:08.0,,,,,deteriorated line fuse.
+310,Site0003,F_0000050,21877,4,28:18.0,28:18.0,,,,,t3527 10Amp tree limb.

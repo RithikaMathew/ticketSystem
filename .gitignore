@@ -12,13 +12,7 @@ __pycache__/
 *.safetensors
 events.out.tfevents.*
 
-# Images (if not needed in repo)
-*.png
-*.jpg
-*.jpeg
 
-# Datasets
-*.csv
 
 # IDE
 .vscode/
