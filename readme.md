@@ -12,31 +12,17 @@
 
 ### 📊 Results Overview
 
-- **`resultsManyTxt`**  
-  - Model: `DistilBERT Enhanced`  
-  - Training: Fine-tuned for classification  
-  - Techniques: Early stopping used  
-  - ✅ Best performance due to broader training and regularization
+- **`new.ipynb or optimal`**  
+  - Model: `DistilBERT Enhanced` 
+  - Training: K-Fold Cross Validation  
+  - Techniques: yes adaptation, yes early stopping  
+  
 
-- **`resultsberta`**  
-  - Model: `DistilBERT PQMLM`  
-  - Training: Fine-tuned for classification  
-  - Techniques: Domain adaptation + Early stopping  
-  - 📈 Strong results on domain-specific data
-
-- **`abertresults`**  
-  - Model: `DistilBERT PQMLM`  
-  - Training: Fine-tuned for classification  
-  - Techniques: Domain adaptation  + without early stopping  
-  - Epochs: 10  
-  - ⚠️ Potential overfitting due to fixed number of epochs
-
-- **`results`**  
+  - **`new copy.ipynb  or optimal_nonadapted`**  
   - Model: Generic DistilBERT  
   - Training: K-Fold Cross Validation  
-  - Techniques: No adaptation, no early stopping  
+  - Techniques: No adaptation, yes early stopping  
   - 🧪 Baseline result for comparison
-
 ---
 
 ### 📝 Notes
