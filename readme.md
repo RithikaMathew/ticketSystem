@@ -18,7 +18,7 @@
   - Techniques: yes adaptation, yes early stopping  
   
 
-  - **`new copy.ipynb  or optimal_nonadapted`**  
+- **`new copy.ipynb  or optimal_nonadapted`**  
   - Model: Generic DistilBERT  
   - Training: K-Fold Cross Validation  
   - Techniques: No adaptation, yes early stopping  
