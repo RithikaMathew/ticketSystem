@@ -30,6 +30,9 @@
 - **Domain adaptation** improves model performance on specialized data (e.g., power quality tickets).
 - **Multi-text pretraining** offers richer language understanding, improving downstream performance.
 
+---
+
+
 ## 📚 Citations
 
 Rithika Mathew, Siyuan Du, Mahdi Zarif, Bruce Stephen, James VanZwieten, and Yufei Tang.  
