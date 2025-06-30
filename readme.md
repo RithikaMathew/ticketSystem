@@ -30,3 +30,15 @@
 - **Domain adaptation** improves model performance on specialized data (e.g., power quality tickets).
 - **Multi-text pretraining** offers richer language understanding, improving downstream performance.
 
+## 📚 Citations
+
+Rithika Mathew, Siyuan Du, Mahdi Zarif, Bruce Stephen, James VanZwieten, and Yufei Tang.  
+**Improving Power Utility Ticket Processing via Domain-Adaptive Transfer Learning and Large Language Models.**  
+*IEEE Transactions on Power Delivery*, 2025 (Under review).
+
+---
+
+## 🙏 Acknowledgments
+
+This work was supported in part by the U.S. National Science Foundation under Grant Nos.  
+**CMMI-2145571** and **OAC-2017597**, and the **Florida Power & Light (FPL) Center for Intelligent Energy Technologies (InETech)**.
