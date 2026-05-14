@@ -1,4 +1,4 @@
-## Model Training Descriptions and Results
+## IEEE PQ DATASET
 
 ### 🔍 DistilBERT Variants
 
@@ -15,20 +15,23 @@
 - **`new.ipynb or optimal`**  
   - Model: `DistilBERT Enhanced` 
   - Training: K-Fold Cross Validation  
-  - Techniques: yes adaptation, yes early stopping  
+  - Techniques: yes infusion, yes early stopping  
   
 
 - **`new copy.ipynb  or optimal_nonadapted`**  
   - Model: Generic DistilBERT  
   - Training: K-Fold Cross Validation  
-  - Techniques: No adaptation, yes early stopping  
+  - Techniques: No infusion, yes early stopping  
   - 🧪 Baseline result for comparison
 ---
 
 ### 📝 Notes
 - **Early stopping** helps prevent overfitting and often improves generalization.
-- **Domain adaptation** improves model performance on specialized data (e.g., power quality tickets).
+- **Domain infusion** improves model performance on specialized data (e.g., power quality tickets).
 - **Multi-text pretraining** offers richer language understanding, improving downstream performance.
+
+**REAL WORLD DATASET Code Repository**: https://github.com/RithikaMathew/ticketModel 
+
 
 ---
 
@@ -36,8 +39,8 @@
 ## 📚 Citations
 
 Rithika Mathew, Siyuan Du, Mahdi Zarif, Bruce Stephen, James VanZwieten, and Yufei Tang.  
-**Improving Power Utility Ticket Processing via Domain-Adaptive Transfer Learning and Large Language Models.**  
-*IEEE Transactions on Power Delivery*, 2025 (Under review).
+**Power Utility Ticket Processing via Domain Knowledge-Infused Large Language Models**  
+*IEEE PES*, 2026 (Under review).
 
 ---
 
