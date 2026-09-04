@@ -40,7 +40,7 @@
 
 Rithika Mathew, Siyuan Du, Mahdi Zarif, Bruce Stephen, James VanZwieten, and Yufei Tang.  
 **Power Utility Ticket Processing via Domain Knowledge-Infused Large Language Models**  
-*IEEE PES*, 2026 (Under review).
+*IEEE Access*, 2026 (Under review).
 
 ---
 
